@@ -1,0 +1,36 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 2c26ccab-40f5-4820-a185-63ccdc2d7585 # Globals - Site Footer
+handle: followUs
+instructions: ''
+name: 'Follow Us'
+searchable: false
+settings:
+  columns:
+    __assoc__:
+      -
+        - dbc69f12-5c97-4dbb-adbf-6cd0ed9c1ba9 # Social Networks
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+      -
+        - a0c8ffdd-605e-4fbf-a9f6-59028a1fad1d # Link Network
+        -
+          __assoc__:
+            -
+              - width
+              - ''
+  contentTable: '{{%stc_followus}}'
+  fieldLayout: matrix
+  maxRows: ''
+  minRows: ''
+  placeholderKey: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  selectionLabel: ''
+  staticField: ''
+translationKeyFormat: null
+translationMethod: site
+type: verbb\supertable\fields\SuperTableField

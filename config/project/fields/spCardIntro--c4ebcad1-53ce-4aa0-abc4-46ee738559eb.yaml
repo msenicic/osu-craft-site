@@ -1,0 +1,19 @@
+columnSuffix: cgprpewa
+contentColumnType: text
+fieldGroup: 069db710-b502-4f33-949f-2f58b1543b35 # Common - Project Data
+handle: spCardIntro
+instructions: 'Small card intro text. Like "innfytting 2023" or "Kommer for salg".'
+name: 'Card Intro'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

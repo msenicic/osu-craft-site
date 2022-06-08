@@ -1,0 +1,34 @@
+columnSuffix: null
+contentColumnType: string
+fieldGroup: 069db710-b502-4f33-949f-2f58b1543b35 # Common - Project Data
+handle: headerImage
+instructions: "Add header image.\r\nThis will be used as video poster if video exists, so it should be first frame of video in that case."
+name: 'Header Image'
+searchable: false
+settings:
+  allowSelfRelations: false
+  allowUploads: true
+  allowedKinds:
+    - image
+  defaultUploadLocationSource: 'volume:5258e7de-fdc7-487f-9a45-2e567a7b1251' # Images
+  defaultUploadLocationSubpath: ''
+  limit: '1'
+  localizeRelations: false
+  previewMode: full
+  restrictFiles: '1'
+  selectionLabel: ''
+  showSiteMenu: false
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  singleUploadLocationSource: 'volume:8dec0694-79e6-43cf-9898-1f9633496ab5' # Videos
+  singleUploadLocationSubpath: ''
+  source: null
+  sources:
+    - 'volume:5258e7de-fdc7-487f-9a45-2e567a7b1251' # Images
+  targetSiteId: null
+  useSingleFolder: false
+  validateRelatedElements: false
+  viewMode: list
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Assets

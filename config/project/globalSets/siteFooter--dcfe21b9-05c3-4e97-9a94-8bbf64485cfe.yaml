@@ -1,0 +1,50 @@
+fieldLayouts:
+  4bc3d8de-c90c-42e2-b3bf-014da14be801:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: dda6f3c3-816f-412d-bf46-734165be75fb # List Link
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            type: craft\fieldlayoutelements\HorizontalRule
+          -
+            fieldUid: 06b82cf6-0753-46e3-86d8-35bc52913e27 # Follow Us
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            type: craft\fieldlayoutelements\HorizontalRule
+          -
+            fieldUid: dfce738e-bbf3-4c20-b576-cb99b5212fd6 # Mailing Address
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+          -
+            fieldUid: ff96cfc0-b8b4-4dbf-904f-7da0e08f9259 # Visiting Address
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 50
+        name: Footer
+        sortOrder: 1
+handle: siteFooter
+name: 'Site Footer'
+sortOrder: 3

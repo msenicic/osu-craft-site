@@ -1,0 +1,151 @@
+field: 48b393c6-8937-4f82-9402-a1d6bd982171 # Page Content
+fieldLayouts:
+  57443acb-d527-47e5-b3a7-02cc2f87ddfd:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: b0cda199-75da-4675-a540-eec1dc70b84b # Heading
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: c0bbf526-ed01-41c2-b366-455615f61061 # Project Cards
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: 9e3069ac-f7ad-4dc9-be9d-4f5e477b8194 # Module ID
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  9e3069ac-f7ad-4dc9-be9d-4f5e477b8194: # Module ID
+    columnSuffix: nziqzjdz
+    contentColumnType: text
+    fieldGroup: null
+    handle: moduleId
+    instructions: ''
+    name: 'Module ID'
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  b0cda199-75da-4675-a540-eec1dc70b84b: # Heading
+    columnSuffix: neyqkcxr
+    contentColumnType: text
+    fieldGroup: null
+    handle: heading
+    instructions: ''
+    name: Heading
+    searchable: false
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: ''
+      columnType: null
+      initialRows: '4'
+      multiline: ''
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  c0bbf526-ed01-41c2-b366-455615f61061: # Project Cards
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: projectCards
+    instructions: ''
+    name: 'Project Cards'
+    searchable: false
+    settings:
+      columns:
+        __assoc__:
+          -
+            - 2daf47df-d1c7-4340-a026-d844deb13f67
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - fdc5467e-3200-4dfe-95f8-1479572b9428
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - ba79838d-8237-465f-b256-cd487e6d20f5
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 8df9fcd0-b333-4c5d-986d-a3333209d895
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 60fc28e6-a3e4-4d21-866c-778fb98d308e
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 3f28cdf7-02b6-487f-9d71-c9473c9c2940
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+          -
+            - 9f5d83d2-22b9-4e64-bad9-26b2e2ca9e3a
+            -
+              __assoc__:
+                -
+                  - width
+                  - ''
+      contentTable: '{{%stc_projectcards}}'
+      fieldLayout: row
+      maxRows: ''
+      minRows: ''
+      placeholderKey: null
+      propagationKeyFormat: null
+      propagationMethod: all
+      selectionLabel: ''
+      staticField: ''
+    translationKeyFormat: null
+    translationMethod: site
+    type: verbb\supertable\fields\SuperTableField
+handle: activeProjects
+name: 'Active Projects'
+sortOrder: 5

@@ -1,0 +1,149 @@
+dateModified: 1647816023
+email:
+  fromEmail: tech@daytwo.no
+  fromName: $DEFAULT_SITE_NAME
+  replyToEmail: null
+  template: ''
+  transportSettings:
+    command: ''
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0d509128-5ab9-41cc-a08e-8b516e5eb4da: Default # Default
+    1a6f251f-db8b-417e-9f70-337a037f8eed: 'Module ID' # Module ID
+    1b36f866-3a9d-4f45-8cb6-6088f01e8769: 'Projects Links Heading' # Projects Links Heading
+    1d2fca35-7d0e-4f92-a63e-d4eb52da96fb: 'Common - Page Settings' # Common - Page Settings
+    2b615e3e-47bc-4f90-b2be-0bc29d7bb5fb: 'Menu Item Text' # Menu Item Text
+    2c26ccab-40f5-4820-a185-63ccdc2d7585: 'Globals - Site Footer' # Globals - Site Footer
+    2cd49022-dbcd-4e31-89bd-25ecc9f62855: 'Image Left or Right' # Image Left or Right
+    3a77bfb0-0871-4581-ae6e-58efd08257d7: Gallery # Gallery
+    3ca6ab4c-ebe2-4a33-b135-215bcdc9acb6: 'Type Link' # Type Link
+    3e896876-b4ce-4985-96b2-98cc8df171d6: 'Projects Links Project' # Projects Links Project
+    4ba619f5-a88e-49a1-bc7e-2df76dad1fec: 'Background Color' # Background Color
+    4e9594e1-3fb7-425c-8f23-bc240ddd8212: Image # Image
+    5b6d7881-9bc1-4b9e-8339-64da105704fb: 'Site Google Analytics GTM Code' # Site Google Analytics GTM Code
+    06b82cf6-0753-46e3-86d8-35bc52913e27: 'Follow Us' # Follow Us
+    6c257344-edd2-4bd9-80de-e43c4aa8c50e: 'Module ID' # Module ID
+    6cf2f0b3-dd76-4edc-82a5-a7b3c39e21a3: 'Active Projects' # Active Projects
+    6e7cdd12-5e29-4b9e-9527-e21c05429c77: 'Is Page Link Disabled?' # Is Page Link Disabled?
+    7a43c953-3dd4-40d5-bbe8-498e7411a32c: Heading # Heading
+    7bd4fad0-30dd-4be8-b52c-4c34010b15e6: Prosjekter # Prosjekter
+    7ccd4d19-2082-47d1-9703-579319d1ce48: 'Entry Field' # Entry Field
+    7cec95cc-1712-4f28-b46f-812763ed6230: 'Page URL' # Page URL
+    7d2c0254-7894-48c8-abcf-dd3ec03f49c4: 'Projects Links Icon' # Projects Links Icon
+    7d70469a-3f9e-4b80-9bbe-9bef084af434: 'Header Logo' # Header Logo
+    7fbd92f6-f8d3-4109-8743-c90ec961764e: 'Accent Bg Color' # Accent Bg Color
+    8b644d79-e5fd-49d0-be32-f18a505cd11c: 'Site Google Map Api Key' # Site Google Map Api Key
+    8ca9ce47-bfd4-4d95-bdae-4074e4ad3960: 'Entry Link' # Entry Link
+    8dec0694-79e6-43cf-9898-1f9633496ab5: Videos # Videos
+    9c0ab3d8-e376-4bac-9674-7bc908a4d0c4: Søk # Søk
+    9e3069ac-f7ad-4dc9-be9d-4f5e477b8194: 'Module ID' # Module ID
+    18abdb49-d7a1-4002-8ad4-6310185a7027: Bjørvika # Bjørvika
+    27aff492-2400-42d9-878a-bd134e93ebd6: $DEFAULT_SITE_NAME # $DEFAULT_SITE_NAME
+    29c65374-c590-482f-bc1f-0590fc196dc7: 'Main Branding Bg Color' # Main Branding Bg Color
+    30d7b80d-5ede-47a8-8b53-9a193547c750: 'Page Description' # Page Description
+    34b7dd68-8621-484d-a5cc-ee7957b17475: 'Image Left or Right' # Image Left or Right
+    48a8f9a0-5244-40fc-91a2-0477c90a769a: 'Big Media' # Big Media
+    48b393c6-8937-4f82-9402-a1d6bd982171: 'Page Content' # Page Content
+    61d008d2-57d9-4b99-a31c-cb4a13ecfeee: 'Menu Item URL' # Menu Item URL
+    65f62666-37e8-4c57-9620-f26a030c93b5: Links # Links
+    069db710-b502-4f33-949f-2f58b1543b35: 'Common - Project Data' # Common - Project Data
+    70b04be1-ca61-4f64-8983-47f37be11675: 'Page Title' # Page Title
+    79deb152-a2fa-41a3-8fa2-e08ac08c357e: 'Site Logo' # Site Logo
+    83dd6cbf-9a77-4fc7-851c-6823df8758e2: 'Text Color' # Text Color
+    83ee1c31-8a76-4046-8635-204aee68afc5: 'Common - Page SEO' # Common - Page SEO
+    91b933ff-9a82-4ed8-8da7-8c1fb77b81ec: 'Om oss' # Om oss
+    109cee0e-9086-4f99-9141-aa23b8d5bb66: 'Image Text' # Image Text
+    116a71ef-3d96-4409-89bf-f65573cdaa04: 'Main Branding Text Color' # Main Branding Text Color
+    666fa1ef-5a45-438a-b07a-373cb729a9f6: 'Open in New Tab?' # Open in New Tab?
+    763b4436-77a9-4a3e-bd8b-554327912ad4: 'Header Text' # Header Text
+    877c7980-59a6-4e55-a408-f5c091a89ba3: Default # Default
+    2456b677-3768-4a36-9c40-49c6498d1a4d: 'Common - Page Data' # Common - Page Data
+    2521f9df-22eb-469b-8ede-9fc16a2285f0: 'Home Intro' # Home Intro
+    3426bbd8-ae24-4099-88d4-f6fe3f6b1e18: 'Use Custom Navigation?' # Use Custom Navigation?
+    5258e7de-fdc7-487f-9a45-2e567a7b1251: Images # Images
+    20944cb4-e66f-4b70-8f75-5b5e2878fcbe: 'Public Schema' # Public Schema
+    40816dba-f57f-46d5-92bb-b0be3bd8ffc0: 'External URL' # External URL
+    44769d58-432d-46e3-82fe-33089b2f6e94: 'Accent Text Color' # Accent Text Color
+    057984bb-4e9f-46a8-a7c9-0bc24cc55a4c: 'Header Subtitle' # Header Subtitle
+    86416bf7-8b17-4f84-a365-c3b2f72e8651: Default # Default
+    97248d91-b4d9-4368-b871-d48a432c8dca: 'Module ID' # Module ID
+    417786da-860d-4ce9-98c0-833b207229d3: 'Header Image' # Header Image
+    685573d3-d931-4ec9-bbd7-33fe9dd7259d: Heading # Heading
+    1305912f-e7bd-4297-b074-b9c45da795db: 'Module ID' # Module ID
+    2202461d-285c-4b02-9aa1-66fea5228786: 'Site Custom Navigation' # Site Custom Navigation
+    2645529a-08e9-403c-9fcd-588f0054ff7a: Intro # Intro
+    52259224-3ac1-4577-b963-4783958d3fad: 'Child List' # Child List
+    62629706-5d42-4d72-8996-b97d67d6e0e6: Files # Files
+    72312580-06a1-4859-97cb-64789885c224: Home # Home
+    a0c8ffdd-605e-4fbf-a9f6-59028a1fad1d: 'Link Network' # Link Network
+    a5e83a79-3948-4cbb-a12b-eaebce1a8a09: Image # Image
+    a864cf15-74b2-4267-9853-a82a0c804294: 'Sub Heading' # Sub Heading
+    a939abd1-71b3-41fe-b782-49dedb30b544: 'Link Background Color' # Link Background Color
+    a7414f0f-31c8-46b9-ac3f-95e6ffa8fdc5: Heading # Heading
+    aa2fbf10-9f18-48c1-ad8a-a0e037af7e88: Default # Default
+    ad097efc-8a00-4502-aa2d-99d0770e4be9: Heading # Heading
+    b0cda199-75da-4675-a540-eec1dc70b84b: Heading # Heading
+    b8fc7270-3447-477e-a9ea-f21be3c0cee3: 'Site Google UA Tracking Code' # Site Google UA Tracking Code
+    b34d0109-624f-4a39-857d-e5d3cae46be4: Redactor # Redactor
+    b242d197-e48f-4b2c-8e53-45fd31938780: Bjørvika # Bjørvika
+    b395b4bc-4cdd-4edf-a06c-5c3ed9e758cb: 'Page Image' # Page Image
+    ba9a3316-329c-4df5-8ddd-9abc7ac9f7d7: 'Page Image Alt' # Page Image Alt
+    bb3e1e90-15fa-4f81-8fc9-3f21a708c2af: 'Site Settings' # Site Settings
+    c0bbf526-ed01-41c2-b366-455615f61061: 'Project Cards' # Project Cards
+    c3d0870f-c337-4b02-a15f-efca2da774bf: Heading # Heading
+    c4e164b5-66b6-4259-9985-d28e3cceae21: 'Globals - Site Settings' # Globals - Site Settings
+    c4ebcad1-53ce-4aa0-abc4-46ee738559eb: 'Card Intro' # Card Intro
+    c7dd1b1a-c547-4182-b285-635a0f962ffb: Projects # Projects
+    c9ce4a72-022b-4329-a4b4-0e600e89febd: 'Background Color' # Background Color
+    c37466f8-6142-4c68-92e1-70efb1e5670e: 'Image Url' # Image Url
+    cb4f46ad-c497-491d-bf9f-cd4ba1036b41: 'iFrame Module' # iFrame Module
+    cf5ee9ce-39e9-4202-a395-22bbe9fcbf6f: Kontakt # Kontakt
+    d1a91586-3ffb-4320-b6da-dd4e58f7d449: 'Child Link' # Child Link
+    d5c3224c-f766-4625-ac73-882d233e1ff0: 'Is External URL?' # Is External URL?
+    d5e5473a-e8d3-4278-8c6b-71aca43eb4c0: 'Link Destination' # Link Destination
+    d9b2758e-4a6a-4830-83dc-3d8defdbcadc: 'Header Title' # Header Title
+    d12c28ef-ab11-4c03-b406-8198b362d67e: 'Om oss' # Om oss
+    d98b5e4a-c4c6-418e-a8c6-7833b12bc420: 'Common - Page Content' # Common - Page Content
+    d7136f58-9984-4fc0-9d38-0f5fd8bad147: Home # Home
+    d82837c4-c48c-44de-91c8-ab16e0e5ef7e: Prosjekter # Prosjekter
+    da0d6b3a-b4a2-4834-b400-ba9e304b20fa: Description # Description
+    dbc69f12-5c97-4dbb-adbf-6cd0ed9c1ba9: 'Social Networks' # Social Networks
+    dc4c72fc-fc7a-4701-ab4e-1a141165f786: 'Public Pages' # Public Pages
+    dc6dc995-abcc-4436-82ce-807a1cbf67a0: 'Site Navigation' # Site Navigation
+    dcfe21b9-05c3-4e97-9a94-8bbf64485cfe: 'Site Footer' # Site Footer
+    dd03a0d7-4a40-4162-bef3-f490879fe99e: 'Globals - Site Navigation' # Globals - Site Navigation
+    dda6f3c3-816f-412d-bf46-734165be75fb: 'List Link' # List Link
+    df154360-edf0-4e44-bac6-0cdfa4e2b52d: 'Project Categories' # Project Categories
+    dfce738e-bbf3-4c20-b576-cb99b5212fd6: 'Mailing Address' # Mailing Address
+    e4c59ea8-133c-4837-b1a2-48e4257a129e: 'Bjørvika Articles' # Bjørvika Articles
+    e44fca28-a0e2-4bc2-a32e-637cf9c53057: 'Header Video' # Header Video
+    e57b4d22-86ed-4664-a297-186255a94e6e: 'Link Destination' # Link Destination
+    f2e4d012-020e-42de-b6d0-39d816bdef61: 'Short Description' # Short Description
+    f4815c5d-d14e-4071-bc18-3988c1941e58: $DEFAULT_SITE_NAME # $DEFAULT_SITE_NAME
+    f25144ca-353d-4b4c-a834-58f4be5266cd: Kontakt # Kontakt
+    fb84bf1a-5324-4c6b-998c-a9fc6d5d1134: 'Hide from Navigation?' # Hide from Navigation?
+    fbed4099-60b1-4e7f-b578-09b9f1714f69: Søk # Søk
+    ff96cfc0-b8b4-4dbf-904f-7da0e08f9259: 'Visiting Address' # Visiting Address
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
+  super-table:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.2.1
+system:
+  edition: pro
+  live: true
+  name: $DEFAULT_SITE_NAME
+  retryDuration: null
+  schemaVersion: 3.7.8
+  timeZone: Europe/Oslo
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

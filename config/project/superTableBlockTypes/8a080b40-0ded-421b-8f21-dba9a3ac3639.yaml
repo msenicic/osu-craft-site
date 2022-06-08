@@ -1,0 +1,177 @@
+field: 06b82cf6-0753-46e3-86d8-35bc52913e27 # Follow Us
+fieldLayouts:
+  7e2f9520-422a-470c-b1a9-abadd4ce9802:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: dbc69f12-5c97-4dbb-adbf-6cd0ed9c1ba9 # Social Networks
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: a0c8ffdd-605e-4fbf-a9f6-59028a1fad1d # Link Network
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  a0c8ffdd-605e-4fbf-a9f6-59028a1fad1d: # Link Network
+    columnSuffix: null
+    contentColumnType: string(255)
+    fieldGroup: null
+    handle: linkNetwork
+    instructions: 'Type link to your network profile'
+    name: 'Link Network'
+    searchable: false
+    settings:
+      maxLength: '255'
+      placeholder: null
+      types:
+        - url
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Url
+  dbc69f12-5c97-4dbb-adbf-6cd0ed9c1ba9: # Social Networks
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: socialNetworks
+    instructions: 'Choose Social Network'
+    name: 'Social Networks'
+    searchable: false
+    settings:
+      options:
+        -
+          __assoc__:
+            -
+              - label
+              - Linkedin
+            -
+              - value
+              - linkedin
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Tumblr
+            -
+              - value
+              - tumblr
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Vimeo
+            -
+              - value
+              - vimeo
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Facebook
+            -
+              - value
+              - facebook
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Twitter
+            -
+              - value
+              - twitter
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Google+
+            -
+              - value
+              - google+
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Youtube
+            -
+              - value
+              - youtube
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Instagram
+            -
+              - value
+              - instagram
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Pinterest
+            -
+              - value
+              - pinterest
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Skype
+            -
+              - value
+              - skype
+            -
+              - default
+              - ''
+        -
+          __assoc__:
+            -
+              - label
+              - Xing
+            -
+              - value
+              - xing
+            -
+              - default
+              - ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\RadioButtons

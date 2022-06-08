@@ -1,0 +1,12 @@
+columnSuffix: afenzitn
+contentColumnType: string(7)
+fieldGroup: 2456b677-3768-4a36-9c40-49c6498d1a4d # Common - Page Data
+handle: pageBgColor
+instructions: "Choose page background color.\r\nDefault color is #ededed"
+name: 'Background Color'
+searchable: false
+settings:
+  defaultColor: '#ededed'
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Color

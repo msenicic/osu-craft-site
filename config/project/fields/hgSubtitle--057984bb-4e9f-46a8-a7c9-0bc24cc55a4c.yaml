@@ -1,0 +1,19 @@
+columnSuffix: eyqqrqmw
+contentColumnType: text
+fieldGroup: 2456b677-3768-4a36-9c40-49c6498d1a4d # Common - Page Data
+handle: hgSubtitle
+instructions: 'Add header subtitle.'
+name: 'Header Subtitle'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '2'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

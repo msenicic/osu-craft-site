@@ -1,0 +1,19 @@
+columnSuffix: qgkcaxax
+contentColumnType: text
+fieldGroup: 069db710-b502-4f33-949f-2f58b1543b35 # Common - Project Data
+handle: spShortDescription
+instructions: 'Short description.'
+name: 'Short Description'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '2'
+  multiline: '1'
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

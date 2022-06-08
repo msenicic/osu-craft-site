@@ -1,0 +1,20 @@
+{% set siteLogo    = siteNav.siteLogo.one() %}
+<header id="header" class="site-header">
+    <div class="_wr">
+        <div class="inner">
+            <div class="site-logo">
+                <a href="{{ siteUrl }}">
+                    {% if siteLogo %}
+                        <img {% if txtColor == "white" %}style="filter: invert(100%);"{% endif %} src="{{ siteLogo.url }}" alt="{{ currentSite.name }}">
+                    {% endif %}
+                </a>
+            </div>
+            <div class="menu-button js-menu-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            {% include "_layouts/_nav" %}
+        </div>
+    </div>
+</header>

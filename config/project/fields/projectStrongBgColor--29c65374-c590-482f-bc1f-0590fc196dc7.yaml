@@ -1,0 +1,12 @@
+columnSuffix: plogtcgg
+contentColumnType: string(7)
+fieldGroup: 069db710-b502-4f33-949f-2f58b1543b35 # Common - Project Data
+handle: projectStrongBgColor
+instructions: 'Add project strong background color.'
+name: 'Main Branding Bg Color'
+searchable: false
+settings:
+  defaultColor: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Color

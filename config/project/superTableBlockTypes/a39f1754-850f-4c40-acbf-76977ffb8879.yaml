@@ -1,0 +1,40 @@
+field: dda6f3c3-816f-412d-bf46-734165be75fb # List Link
+fieldLayouts:
+  01f56cc9-5abe-43fb-9ff7-1c3fcacb85a0:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: 65f62666-37e8-4c57-9620-f26a030c93b5 # Links
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  65f62666-37e8-4c57-9620-f26a030c93b5: # Links
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: links
+    instructions: ''
+    name: Links
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      limit: '1'
+      localizeRelations: false
+      selectionLabel: ''
+      showSiteMenu: false
+      source: null
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries

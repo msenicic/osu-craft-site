@@ -1,0 +1,34 @@
+columnSuffix: qdqaumpv
+contentColumnType: string
+fieldGroup: 069db710-b502-4f33-949f-2f58b1543b35 # Common - Project Data
+handle: projectStrongTxtColor
+instructions: 'Add project strong text color.'
+name: 'Main Branding Text Color'
+searchable: false
+settings:
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Black
+        -
+          - value
+          - black
+        -
+          - default
+          - '1'
+    -
+      __assoc__:
+        -
+          - label
+          - White
+        -
+          - value
+          - white
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\RadioButtons

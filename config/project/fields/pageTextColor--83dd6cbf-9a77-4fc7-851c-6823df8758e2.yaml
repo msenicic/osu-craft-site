@@ -1,0 +1,34 @@
+columnSuffix: sqlapplw
+contentColumnType: string
+fieldGroup: 2456b677-3768-4a36-9c40-49c6498d1a4d # Common - Page Data
+handle: pageTextColor
+instructions: "Choose text color for page.\r\nIf empty, black will be default color."
+name: 'Text Color'
+searchable: false
+settings:
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Black
+        -
+          - value
+          - black
+        -
+          - default
+          - '1'
+    -
+      __assoc__:
+        -
+          - label
+          - White
+        -
+          - value
+          - white
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\RadioButtons

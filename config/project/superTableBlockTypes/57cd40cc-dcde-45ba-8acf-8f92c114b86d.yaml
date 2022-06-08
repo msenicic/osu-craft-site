@@ -1,0 +1,40 @@
+field: 52259224-3ac1-4577-b963-4783958d3fad # Child List
+fieldLayouts:
+  699c7de5-dbe6-41e7-9d8f-72e08f710a2f:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: d1a91586-3ffb-4320-b6da-dd4e58f7d449 # Child Link
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  d1a91586-3ffb-4320-b6da-dd4e58f7d449: # Child Link
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: childLink
+    instructions: ''
+    name: 'Child Link'
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      limit: '1'
+      localizeRelations: false
+      selectionLabel: ''
+      showSiteMenu: true
+      source: null
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries

@@ -1,0 +1,62 @@
+field: 3e896876-b4ce-4985-96b2-98cc8df171d6 # Projects Links Project
+fieldLayouts:
+  30ff6870-4d10-44dc-b31b-0caa1af00d3d:
+    tabs:
+      -
+        elements:
+          -
+            fieldUid: d5e5473a-e8d3-4278-8c6b-71aca43eb4c0 # Link Destination
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            fieldUid: a939abd1-71b3-41fe-b782-49dedb30b544 # Link Background Color
+            instructions: null
+            label: null
+            required: true
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+fields:
+  a939abd1-71b3-41fe-b782-49dedb30b544: # Link Background Color
+    columnSuffix: rivbnobw
+    contentColumnType: string(7)
+    fieldGroup: null
+    handle: linkBackgroundColor
+    instructions: ''
+    name: 'Link Background Color'
+    searchable: false
+    settings:
+      defaultColor: ''
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\Color
+  d5e5473a-e8d3-4278-8c6b-71aca43eb4c0: # Link Destination
+    columnSuffix: null
+    contentColumnType: string
+    fieldGroup: null
+    handle: linkDestination
+    instructions: ''
+    name: 'Link Destination'
+    searchable: false
+    settings:
+      allowSelfRelations: false
+      limit: '1'
+      localizeRelations: false
+      selectionLabel: ''
+      showSiteMenu: false
+      source: null
+      sources: '*'
+      targetSiteId: null
+      validateRelatedElements: false
+      viewMode: null
+    translationKeyFormat: null
+    translationMethod: site
+    type: craft\fields\Entries
